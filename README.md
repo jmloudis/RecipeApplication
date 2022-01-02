@@ -1,3 +1,8 @@
-# 311-Group-Project
+# Recipe Application
 
-Currently working on the GUI for the settings model
+- I am currently not working on this application
+
+
+# Demonstration
+
+
